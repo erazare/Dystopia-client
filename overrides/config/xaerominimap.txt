@@ -17,7 +17,7 @@ displayRedstone:true
 deathpoints:true
 oldDeathpoints:true
 distance:1
-lockNorth:false
+lockNorth:true
 zoom:0
 minimapSize:0
 chunkGrid:-1
@@ -31,7 +31,7 @@ waypointsIngameCloseScale:1.0
 antiAliasing:true
 blockColours:0
 lighting:true
-dotsStyle:0
+dotsStyle:1
 dotNameScale:1.0
 compassOverEverything:true
 showFlowers:true

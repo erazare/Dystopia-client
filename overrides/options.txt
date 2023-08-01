@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["spoornpacks","vanilla","fabric","file/FreshAnimations_v1.8.1.zip","delta-draconis-worldgen-resource-pack-1-20.zip","file/the AspPack.zip","deep-dark-enhanced-resource-pack.zip","ParallaxSounds.zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Better_Farm_Animals_V0.05.zip","file/Better_Cats_V0.08.zip","file/Better_Dogs_V0.36.zip","file/BetterGhastCollection[1].zip","file/HumanPlayerVillagers[14].zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/the AspPack.zip","ParallaxSounds.zip","file/BetterGhastCollection[1].zip","file/HumanPlayerVillagers[14].zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["spoornpacks","vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Stellar Tweaks-2.4.0.zip","delta-draconis-worldgen-resource-pack-1-20.zip","deep-dark-enhanced-resource-pack.zip","ParallaxSounds.zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Better_Farm_Animals_V0.05.zip","file/Better_Cats_V0.08.zip","file/Better_Dogs_V0.36.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/al-s-skeletons-revamped-1-2.zip","file/Fantasy_Ores_v7.1[classic].zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","ParallaxSounds.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -105,7 +105,7 @@ key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
-key_key.swapOffhand:key.mouse.left
+key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.c
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
