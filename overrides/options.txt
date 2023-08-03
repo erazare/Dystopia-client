@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["spoornpacks","vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Stellar Tweaks-2.4.0.zip","delta-draconis-worldgen-resource-pack-1-20.zip","deep-dark-enhanced-resource-pack.zip","ParallaxSounds.zip","MechanizationResourcepack_v4.1.1.zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Better_Farm_Animals_V0.05.zip","file/Better_Cats_V0.08.zip","file/Better_Dogs_V0.36.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/al-s-skeletons-revamped-1-2.zip","file/Fantasy_Ores_v7.1[classic].zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["spoornpacks","vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Stellar Tweaks-2.4.0.zip","delta-draconis-worldgen-resource-pack-1-20.zip","deep-dark-enhanced-resource-pack.zip","ParallaxSounds.zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Better_Farm_Animals_V0.05.zip","file/Better_Cats_V0.08.zip","file/Better_Dogs_V0.36.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/al-s-skeletons-revamped-1-2.zip","file/Fantasy_Ores_v7.1[classic].zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
 incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","ParallaxSounds.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
@@ -140,6 +140,10 @@ key_key.origins.septenary_active:key.keyboard.unknown
 key_key.origins.octonary_active:key.keyboard.unknown
 key_key.origins.nonary_active:key.keyboard.unknown
 key_key.origins.denary_active:key.keyboard.unknown
+key_key.factocrafty.g:key.keyboard.backspace
+key_key.factocrafty.v:key.keyboard.v
+key_key.factocrafty.l:key.keyboard.l
+key_key.factocrafty.b:key.keyboard.b
 key_key.hwg.reload:key.keyboard.r
 key_key.hwg.scope:key.keyboard.left.alt
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a
