@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["spoornpacks","vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Stellar Tweaks-2.4.0.zip","delta-draconis-worldgen-resource-pack-1-20.zip","deep-dark-enhanced-resource-pack.zip","ParallaxSounds.zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Better_Farm_Animals_V0.05.zip","file/Better_Cats_V0.08.zip","file/Better_Dogs_V0.36.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/al-s-skeletons-revamped-1-2.zip","file/Fantasy_Ores_v7.1[classic].zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["spoornpacks","vanilla","fabric","file/FreshAnimations_v1.8.1.zip","file/Stellar Tweaks-2.4.0.zip","delta-draconis-worldgen-resource-pack-1-20.zip","deep-dark-enhanced-resource-pack.zip","ParallaxSounds.zip","MechanizationResourcepack_v4.1.1.zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Better_Farm_Animals_V0.05.zip","file/Better_Cats_V0.08.zip","file/Better_Dogs_V0.36.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/al-s-skeletons-revamped-1-2.zip","file/Fantasy_Ores_v7.1[classic].zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
 incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","ParallaxSounds.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/Fantasy_Ores_v7.1[classic].zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
@@ -173,11 +173,15 @@ key_key.mtr.debug_2_positive:key.keyboard.keypad.8
 key_key.mtr.debug_3_positive:key.keyboard.keypad.9
 key_key.mtr.debug_cycle_negative:key.keyboard.keypad.subtract
 key_key.mtr.debug_cycle_positive:key.keyboard.keypad.add
+key_neat.keybind.toggle:key.keyboard.unknown
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
 key_key.smallships.ship_sail:key.keyboard.backspace
+key_key.travelersbackpack.inventory:key.keyboard.b
+key_key.travelersbackpack.toggle_tank:key.keyboard.n
+key_key.travelersbackpack.cycle_tool:key.keyboard.z
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
