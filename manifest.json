@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Dystopia",
-  "version": "v.a3",
+  "version": "v.b1",
   "author": "Keef_DGAF",
   "files": [
     {
@@ -160,18 +160,8 @@
       "required": true
     },
     {
-      "projectID": 890899,
-      "fileID": 4653671,
-      "required": true
-    },
-    {
       "projectID": 683123,
       "fileID": 4649534,
-      "required": true
-    },
-    {
-      "projectID": 654384,
-      "fileID": 4654298,
       "required": true
     },
     {
@@ -260,6 +250,11 @@
       "required": true
     },
     {
+      "projectID": 682900,
+      "fileID": 4633360,
+      "required": true
+    },
+    {
       "projectID": 895308,
       "fileID": 4679167,
       "required": true
@@ -271,7 +266,7 @@
     },
     {
       "projectID": 318449,
-      "fileID": 4576291,
+      "fileID": 4681153,
       "required": true
     },
     {
@@ -366,7 +361,7 @@
     },
     {
       "projectID": 635427,
-      "fileID": 4589803,
+      "fileID": 4680831,
       "required": true
     },
     {
@@ -387,6 +382,11 @@
     {
       "projectID": 374615,
       "fileID": 4635525,
+      "required": true
+    },
+    {
+      "projectID": 476415,
+      "fileID": 4582398,
       "required": true
     },
     {
@@ -525,11 +525,6 @@
       "required": true
     },
     {
-      "projectID": 258371,
-      "fileID": 4654327,
-      "required": true
-    },
-    {
       "projectID": 862603,
       "fileID": 4661536,
       "required": true
@@ -556,7 +551,7 @@
     },
     {
       "projectID": 551894,
-      "fileID": 4675977,
+      "fileID": 4680923,
       "required": true
     },
     {

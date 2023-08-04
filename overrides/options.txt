@@ -154,7 +154,7 @@ key_key.immersive_aircraft.multi_control_up:key.keyboard.space
 key_key.immersive_aircraft.multi_control_down:key.keyboard.left.shift
 key_key.immersive_aircraft.multi_control_pull:key.keyboard.s
 key_key.immersive_aircraft.multi_control_push:key.keyboard.w
-key_key.immersive_aircraft.multi_dismount:key.keyboard.backspace
+key_key.immersive_aircraft.multi_dismount:key.keyboard.keypad.3
 key_key.immersive_aircraft.multi_boost:key.keyboard.b
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
