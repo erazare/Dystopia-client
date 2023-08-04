@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Dystopia",
-  "version": "v.b1",
+  "version": "v.05",
   "author": "Keef_DGAF",
   "files": [
     {
@@ -35,6 +35,11 @@
       "required": true
     },
     {
+      "projectID": 428912,
+      "fileID": 4577300,
+      "required": true
+    },
+    {
       "projectID": 824852,
       "fileID": 4616900,
       "required": true
@@ -50,8 +55,18 @@
       "required": true
     },
     {
+      "projectID": 883166,
+      "fileID": 4653085,
+      "required": true
+    },
+    {
       "projectID": 507731,
       "fileID": 4582662,
+      "required": true
+    },
+    {
+      "projectID": 831663,
+      "fileID": 4676896,
       "required": true
     },
     {
@@ -125,18 +140,33 @@
       "required": true
     },
     {
+      "projectID": 883585,
+      "fileID": 4680259,
+      "required": true
+    },
+    {
       "projectID": 636608,
       "fileID": 4663429,
       "required": true
     },
     {
       "projectID": 447673,
-      "fileID": 4674053,
+      "fileID": 4681846,
       "required": true
     },
     {
       "projectID": 550678,
       "fileID": 4628061,
+      "required": true
+    },
+    {
+      "projectID": 326652,
+      "fileID": 4669189,
+      "required": true
+    },
+    {
+      "projectID": 379680,
+      "fileID": 4572353,
       "required": true
     },
     {
@@ -255,6 +285,11 @@
       "required": true
     },
     {
+      "projectID": 625069,
+      "fileID": 4603345,
+      "required": true
+    },
+    {
       "projectID": 895308,
       "fileID": 4679167,
       "required": true
@@ -267,6 +302,11 @@
     {
       "projectID": 318449,
       "fileID": 4681153,
+      "required": true
+    },
+    {
+      "projectID": 894930,
+      "fileID": 4673145,
       "required": true
     },
     {
@@ -305,18 +345,28 @@
       "required": true
     },
     {
+      "projectID": 880630,
+      "fileID": 4639282,
+      "required": true
+    },
+    {
+      "projectID": 459857,
+      "fileID": 4574364,
+      "required": true
+    },
+    {
       "projectID": 515172,
       "fileID": 4590529,
       "required": true
     },
     {
-      "projectID": 381257,
-      "fileID": 4667562,
+      "projectID": 565956,
+      "fileID": 4647092,
       "required": true
     },
     {
-      "projectID": 623908,
-      "fileID": 4674080,
+      "projectID": 381257,
+      "fileID": 4667562,
       "required": true
     },
     {
@@ -352,6 +402,11 @@
     {
       "projectID": 549404,
       "fileID": 4571945,
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 4614554,
       "required": true
     },
     {
@@ -425,18 +480,18 @@
       "required": true
     },
     {
+      "projectID": 564941,
+      "fileID": 4631405,
+      "required": true
+    },
+    {
       "projectID": 324717,
-      "fileID": 4678846,
+      "fileID": 4681829,
       "required": true
     },
     {
       "projectID": 263420,
       "fileID": 4658322,
-      "required": true
-    },
-    {
-      "projectID": 729085,
-      "fileID": 4633637,
       "required": true
     },
     {
@@ -460,6 +515,11 @@
       "required": true
     },
     {
+      "projectID": 582327,
+      "fileID": 4591938,
+      "required": true
+    },
+    {
       "projectID": 845863,
       "fileID": 4621152,
       "required": true
@@ -477,6 +537,11 @@
     {
       "projectID": 666014,
       "fileID": 4679526,
+      "required": true
+    },
+    {
+      "projectID": 591388,
+      "fileID": 4655668,
       "required": true
     },
     {
@@ -525,6 +590,11 @@
       "required": true
     },
     {
+      "projectID": 550579,
+      "fileID": 4585173,
+      "required": true
+    },
+    {
       "projectID": 862603,
       "fileID": 4661536,
       "required": true
@@ -562,6 +632,11 @@
     {
       "projectID": 419699,
       "fileID": 4663009,
+      "required": true
+    },
+    {
+      "projectID": 631618,
+      "fileID": 4634195,
       "required": true
     }
   ],
