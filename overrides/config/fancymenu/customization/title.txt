@@ -32,9 +32,16 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = bottom-left
-  x = 49
+  x = 51
   action = movebutton
   y = -58
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  width = 18
+  action = resizebutton
+  height = 20
 }
 
 customization {
@@ -69,7 +76,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = bottom-left
-  x = 15
+  x = 16
   action = movebutton
   y = -58
 }
@@ -118,5 +125,88 @@ customization {
   actionid = 73f8826f-73a6-4f36-9825-2e39e0e603d31690818053695
   y = 0
   height = 30
+}
+
+customization {
+  path = config/fancymenu/assets/title.png
+  orientation = top-centered
+  x = -322
+  width = 644
+  action = addtexture
+  actionid = 5d8c1daa-3ff5-4754-a057-cb31a279058c1691244358141
+  y = 0
+  height = 100
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = DGAF Development 2023
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 778
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 32437450-c610-44e7-adeb-afdcc7625a581691244412860
+  y = 517
+  alignment = left
+  height = 40
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Version 1.0.0
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -30
+  width = 60
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 88bf439c-4de0-4270-9d7b-f67e600aef051691244474892
+  y = -181
+  alignment = left
+  height = 40
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/avuMArx9kr%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/assets/pngwing.com.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Join our Discord
+  x = 82
+  width = 28
+  action = addbutton
+  actionid = d5552bd5-c673-4aec-8d09-33f4fafabadc1691244989992
+  y = -62
+  backgroundnormal = config/fancymenu/assets/pngwing.com.png
+  height = 28
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;http://dgafdev.com/%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/assets/dgaf.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Visit our website
+  x = 112
+  width = 30
+  action = addbutton
+  actionid = a86d2d5b-40c3-45be-95c4-5f9290abf04d1691245035772
+  y = 477
+  backgroundnormal = config/fancymenu/assets/dgaf.png
+  height = 28
 }
 
