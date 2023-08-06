@@ -1,5 +1,5 @@
 {
-  "illegalPathSupportMode": "All",
+  "illegalPathSupportMode": "Entity",
   "enableCustomTextures": true,
   "enableCustomBlockEntities": true,
   "textureUpdateFrequency_V2": "Slow",
@@ -38,5 +38,6 @@
   "ignoredConfigs": [],
   "hideConfigButton": false,
   "disableVanillaDirectoryVariantTextures": false,
-  "use3DSkinLayerPatch": true
+  "use3DSkinLayerPatch": true,
+  "enableFullBodyWardenTextures": true
 }

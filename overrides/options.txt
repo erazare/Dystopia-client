@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","spoornpacks","ParallaxSounds.zip","file/FreshAnimations_v1.8.1.zip","file/Ozocraft Remix 1.20.1 [beta].zip","deep-dark-enhanced-resource-pack.zip","delta-draconis-worldgen-resource-pack-1-20.zip","fabric","file/HumanPlayerVillagers[14].zip","file/Better_Dogs_V0.36.zip","file/Better_Farm_Animals_V0.05.zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Stellar Tweaks-2.4.0.zip","file/al-s-skeletons-revamped-1-2.zip","file/Improved+Hostiles.zip","Essence RPG Resources for 0.1.6.zip","file/TZP_1.19.2_2.6.zip","file/Fantasy_Ores_v7.1[classic].zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
-incompatibleResourcePacks:["ParallaxSounds.zip","file/FreshAnimations_v1.8.1.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/TZP_1.19.2_2.6.zip","file/Fantasy_Ores_v7.1[classic].zip","file/DiscreetGUI V1.4.zip"]
+resourcePacks:["vanilla","spoornpacks","file/FreshAnimations_v1.8.1.zip","file/Ozocraft Remix 1.20.1 [beta].zip","deep-dark-enhanced-resource-pack.zip","delta-draconis-worldgen-resource-pack-1-20.zip","fabric","file/HumanPlayerVillagers[14].zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Stellar Tweaks-2.4.0.zip","file/Better_Cats_V0.08.zip","file/al-s-skeletons-revamped-1-2.zip","file/Improved+Hostiles.zip","Essence RPG Resources for 0.1.6.zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","file/TZP_1.19.2_2.6.zip","file/Fantasy_Ores_v7.1[classic].zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/DiscreetGUI V1.4.zip","file/TZP_1.19.2_2.6.zip","file/Fantasy_Ores_v7.1[classic].zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -82,6 +82,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
+debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.attack:key.mouse.left
@@ -118,11 +119,16 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.dynamicfps.toggle_forced:key.keyboard.unknown
+key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
+key_key.fabrishot.screenshot:key.keyboard.f9
 key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.cadmus.open_claim_map:key.keyboard.keypad.7
+key_key.deathlog.death_screen:key.keyboard.end
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.essentialgui.main_menu:key.keyboard.unknown
 key_key.essentialgui.debug_entities:key.keyboard.unknown
 key_key.essentialgui.toggle_lighting:key.keyboard.f9
@@ -139,6 +145,7 @@ key_key.origins.septenary_active:key.keyboard.unknown
 key_key.origins.octonary_active:key.keyboard.unknown
 key_key.origins.nonary_active:key.keyboard.unknown
 key_key.origins.denary_active:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.keypad.0
 key_key.factocrafty.g:key.keyboard.unknown
 key_key.factocrafty.v:key.keyboard.unknown
 key_key.factocrafty.l:key.keyboard.unknown
@@ -155,6 +162,11 @@ key_key.immersive_aircraft.multi_control_pull:key.keyboard.s
 key_key.immersive_aircraft.multi_control_push:key.keyboard.w
 key_key.immersive_aircraft.multi_dismount:key.keyboard.keypad.3
 key_key.immersive_aircraft.multi_boost:key.keyboard.b
+key_key.inventoryhud.toggle:key.keyboard.i
+key_key.inventoryhud.openconfig:key.keyboard.o
+key_key.inventoryhud.togglepot:key.keyboard.unknown
+key_key.inventoryhud.togglearm:key.keyboard.unknown
+key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown
@@ -163,6 +175,9 @@ key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.levelz.openskillscreen:key.keyboard.j
+key_key.lowfire.toggle:key.keyboard.unknown
+key_key.lowfire.toggleRender:key.keyboard.unknown
+key_key.lowfire.nextFireOffset:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_neat.keybind.toggle:key.keyboard.unknown
 key_key.origins.primary_active:key.keyboard.g
@@ -199,6 +214,8 @@ key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown

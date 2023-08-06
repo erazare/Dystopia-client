@@ -26,6 +26,7 @@ maxSpawnsPerTick = 10
 chance = 0.01
 frostWeight = 1
 flameWeight = 1
+potionWeight = 1
 
 [Spawning.axisSpawn]
 chance = 0.1

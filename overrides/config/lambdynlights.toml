@@ -1,0 +1,85 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				vindicator = true
+				pig = true
+				drowned = true
+				chicken = true
+				item = true
+				cow = true
+				villager = true
+				armor_stand = true
+				wolf = true
+				sheep = true
+				zombie = true
+				skeleton = true
+				creeper = true
+				axolotl = true
+				bat = true
+				squid = true
+				spider = true
+				glow_squid = true
+				cave_spider = true
+				enderman = true
+				zombie_villager = true
+				witch = true
+				cod = true
+				dolphin = true
+				tropical_fish = true
+				salmon = true
+				turtle = true
+				vex = true
+				snowball = true
+				minecart = true
+				item_frame = true
+				experience_orb = true
+				horse = true
+				donkey = true
+				painting = true
+				bee = true
+				pillager = true
+				zombie_horse = true
+
+			[light_sources.settings.entities.illagerinvasion]
+				sorcerer = true
+
+			[light_sources.settings.entities.frycmobvariants]
+				forgotten = true
+				cave_creeper = true
+				explorer = true
+				undead_warrior = true
+				armored_spider = true
+
+			[light_sources.settings.entities.hwg]
+				bullets = true
+				merc = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
