@@ -62,9 +62,26 @@ mode = "fancy"
 				bee = true
 				pillager = true
 				zombie_horse = true
+				boat = true
+				potion = true
+				lightning_bolt = true
+				fox = true
+				illusioner = true
+				arrow = true
+				slime = true
+				evoker = true
+				phantom = true
+				frog = true
+				llama = true
+				trident = true
 
 			[light_sources.settings.entities.illagerinvasion]
 				sorcerer = true
+				basher = true
+				provoker = true
+				alchemist = true
+				archivist = true
+				marauder = true
 
 			[light_sources.settings.entities.frycmobvariants]
 				forgotten = true
@@ -72,14 +89,24 @@ mode = "fancy"
 				explorer = true
 				undead_warrior = true
 				armored_spider = true
+				corsair = true
 
 			[light_sources.settings.entities.hwg]
 				bullets = true
 				merc = true
+				spy = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
 
 			[light_sources.settings.entities.levelz]
 				level_experience_orb = true
+
+			[light_sources.settings.entities.darkwaters]
+				sight_hunter = true
+				mohast = true
+				miraid = true
+				craeken = true
+				miraid_hallucination = true
+				aberration = true
 

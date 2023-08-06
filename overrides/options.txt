@@ -13,7 +13,7 @@ invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
-directionalAudio:true
+directionalAudio:false
 touchscreen:false
 fullscreen:true
 bobView:true
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","spoornpacks","file/FreshAnimations_v1.8.1.zip","file/Ozocraft Remix 1.20.1 [beta].zip","deep-dark-enhanced-resource-pack.zip","delta-draconis-worldgen-resource-pack-1-20.zip","fabric","file/HumanPlayerVillagers[14].zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Stellar Tweaks-2.4.0.zip","file/Better_Cats_V0.08.zip","file/al-s-skeletons-revamped-1-2.zip","file/Improved+Hostiles.zip","Essence RPG Resources for 0.1.6.zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","file/TZP_1.19.2_2.6.zip","file/Fantasy_Ores_v7.1[classic].zip"]
-incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/HumanPlayerVillagers[14].zip","file/Improved+Hostiles.zip","file/DiscreetGUI V1.4.zip","file/TZP_1.19.2_2.6.zip","file/Fantasy_Ores_v7.1[classic].zip"]
+resourcePacks:["vanilla","spoornpacks","file/FreshAnimations_v1.8.1.zip","file/Ozocraft Remix 1.20.1 [v2.0].zip","deep-dark-enhanced-resource-pack.zip","delta-draconis-worldgen-resource-pack-1-20.zip","fabric","file/HumanPlayerVillagers[14].zip","file/Icon - Xaero X FA - v2.3 (1.20-1.20.1).zip","file/Stellar Tweaks-2.4.0.zip","file/Better_Cats_V0.08.zip","file/AL\u0027s Skeletons Revamped 1.2.zip","Essence RPG Resources for 0.1.6.zip","file/Improved Hostiles.zip","file/TZP_1.19.2_2.6.zip","file/Fantasy_Ores_v7.1[classic].zip","file/gm-construct-panorama-e1890.zip","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip"]
+incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip","file/HumanPlayerVillagers[14].zip","file/Improved Hostiles.zip","file/TZP_1.19.2_2.6.zip","file/Fantasy_Ores_v7.1[classic].zip","file/DiscreetGUI V1.4.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -146,10 +146,6 @@ key_key.origins.octonary_active:key.keyboard.unknown
 key_key.origins.nonary_active:key.keyboard.unknown
 key_key.origins.denary_active:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.keypad.0
-key_key.factocrafty.g:key.keyboard.unknown
-key_key.factocrafty.v:key.keyboard.unknown
-key_key.factocrafty.l:key.keyboard.unknown
-key_key.factocrafty.b:key.keyboard.unknown
 key_key.hwg.reload:key.keyboard.r
 key_key.hwg.scope:key.keyboard.left.alt
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a
@@ -220,11 +216,11 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:0.0
-soundCategory_record:0.0
+soundCategory_music:0.08098591549295775
+soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
-soundCategory_hostile:0.0
+soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
