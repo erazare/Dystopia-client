@@ -20,8 +20,8 @@
   "overlay": {
     "activeTheme": "jade:dark",
     "themesHash": -328442023,
-    "overlayPosX": 0.9836956,
-    "overlayPosY": 0.98913044,
+    "overlayPosX": 0.98,
+    "overlayPosY": 1.0,
     "overlayScale": 1.0,
     "overlayAnchorX": 1.0,
     "overlayAnchorY": 0.0,

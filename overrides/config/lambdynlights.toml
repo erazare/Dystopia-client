@@ -74,6 +74,11 @@ mode = "fancy"
 				frog = true
 				llama = true
 				trident = true
+				iron_golem = true
+				cat = true
+				rabbit = true
+				goat = true
+				area_effect_cloud = true
 
 			[light_sources.settings.entities.illagerinvasion]
 				sorcerer = true
@@ -109,4 +114,7 @@ mode = "fancy"
 				craeken = true
 				miraid_hallucination = true
 				aberration = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
 

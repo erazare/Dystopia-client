@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "dystopia",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Keef_DGAF",
   "files": [
     {
@@ -197,11 +197,6 @@
     {
       "projectID": 488090,
       "fileID": 4576371,
-      "required": true
-    },
-    {
-      "projectID": 876027,
-      "fileID": 4597877,
       "required": true
     },
     {
@@ -787,11 +782,6 @@
     {
       "projectID": 550678,
       "fileID": 4628061,
-      "required": true
-    },
-    {
-      "projectID": 563425,
-      "fileID": 4510990,
       "required": true
     },
     {
