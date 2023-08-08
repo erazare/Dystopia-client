@@ -79,6 +79,14 @@ mode = "fancy"
 				rabbit = true
 				goat = true
 				area_effect_cloud = true
+				stray = true
+				polar_bear = true
+				parrot = true
+				pufferfish = true
+				hoglin = true
+				zoglin = true
+				husk = true
+				llama_spit = true
 
 			[light_sources.settings.entities.illagerinvasion]
 				sorcerer = true
@@ -95,6 +103,8 @@ mode = "fancy"
 				undead_warrior = true
 				armored_spider = true
 				corsair = true
+				frozen_zombie = true
+				tropical_spider = true
 
 			[light_sources.settings.entities.hwg]
 				bullets = true
@@ -117,4 +127,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				gyrodyne = true
+
+			[light_sources.settings.entities.bewitchment]
+				ghost = true
 
